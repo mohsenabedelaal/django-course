@@ -63,3 +63,31 @@ HTTP Requests :
 - OPTION
 - TRACE
 - PATCH
+
+## Django for Dynamic website
+
+django uses Jinja for making your static html more dynamic (like blade in laravel)
+
+some syntax you can use in your html file are:
+
+- For Loop
+
+```python
+{% for card in cards %}
+{% endfor %}
+```
+
+- Condition
+
+```python
+{% if card %}
+{%else %}
+{% endif %}
+```
+
+- To load from static folder and from a specific folder in static
+
+```python
+{% load static %}
+{% static "img" as baseUrl %}
+```
