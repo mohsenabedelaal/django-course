@@ -1,5 +1,3 @@
-![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--jbr__sKh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d0hst9r97gq50860kpq0.png "Django")
-
 # Django
 
 Django is a python framework used for web applications .
