@@ -91,3 +91,9 @@ some syntax you can use in your html file are:
 {% load static %}
 {% static "img" as baseUrl %}
 ```
+
+## ORM
+
+What is ORM ?
+Object–relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language. There are both free and commercial packages available that perform object–relational mapping, although some programmers opt to construct their own ORM tools.
+![alt text](https://engineertodeveloper.com/wp-content/uploads/2021/01/django_orm_diagram_1.png "ORM")
