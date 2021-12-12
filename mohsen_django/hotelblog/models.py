@@ -5,3 +5,4 @@ class Cards:
     title : str
     text : str
     img : str
+    offer : bool
